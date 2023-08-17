@@ -45,8 +45,6 @@ describe("checkout", ()=>{
             X = parseInt(Rate[0].replace(/[^0-9.-]+/g, ""))    
             Y = X *3
         })
-        
-        
         }*/
         
     })
